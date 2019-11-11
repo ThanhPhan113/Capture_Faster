@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Listofbusinesscard"
+        android:orderInCategory="100"
+        android:title="@string/title_activity_list__view"
+        app:showAsAction="never" />
+
+   <item
+        android:id="@+id/capturebutton"
+        android:orderInCategory="100"
+        android:title="@string/title_activity_capture__load"
+       app:showAsAction="never" />
+</menu>
